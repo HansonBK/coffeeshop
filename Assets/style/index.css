@@ -1,0 +1,142 @@
+.header,.Container2,.main {
+  width: 100%;
+    
+    margin: auto; 
+   
+    
+}
+
+.HH
+{
+    position: sticky;
+    top: 0; 
+
+   mix-blend-mode: difference;
+
+    
+}
+.BH{
+    width: 50%;
+}
+
+
+a,.dark{
+    font-size: small;
+    font-family: monospace;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+a:hover
+{
+    color:rgb(165, 137, 137);
+}
+
+h2
+{
+
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: xx-large;
+    
+}
+h2:hover{color: rgb(165, 137, 137);}
+
+header { 
+    background: url(../img/h66.jpg);
+   background-size: cover;
+    height: 100vh;
+     
+    
+}
+
+.mid
+{
+    max-width: 100%;
+    height: 100%;
+    margin: auto;
+    align-content: center;    
+
+    
+}
+
+
+h1{
+    color:white;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding: 20px;
+}
+
+
+p {
+    color:white;
+    text-align: center;
+    
+}
+
+.buttonC
+{
+    background-color:transparent;
+    border: none;
+    color: white;
+    border: solid 1px rgb(165, 137, 137);
+    padding: 10px;
+    
+    
+}
+
+.buttonD{
+   display: flex;
+   justify-content: center;
+
+    
+}
+
+.buttonC:hover
+{
+    color: rgb(165, 137, 137);
+}
+
+.I2{
+    color: white;
+}
+
+.Location
+{
+    font-size: large;
+    
+}
+
+.img2{
+    background-size: cover;
+    width: 100%;
+   
+}
+
+
+.p2,.hhh{
+    color: black;
+}
+.imgesD{
+    height: 400px;
+    width: 270px;
+    box-shadow: 30px 30px rgb(180, 180, 180);
+}
+    
+
+hr{
+    border: 2px solid rgb(245, 166, 55);
+    --bs-text-opacity:1;
+    width: 25px;
+}
+
+.hr2
+{
+    border: 2px solid rgb(245, 166, 55);
+    --bs-text-opacity:1;
+    width: 60px;
+}
+
